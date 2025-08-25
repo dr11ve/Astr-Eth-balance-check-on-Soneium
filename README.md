@@ -191,3 +191,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- fix: correct token contract addresses - 2025-08-25 03:23:51 -->
+
+
+<!-- feat: implement ETH balance monitoring on Soneium - 2025-08-26 01:59:51 -->
