@@ -248,3 +248,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- perf: optimize RPC endpoint usage - 2025-09-12 23:22:51 -->
+
+
+<!-- feat: implement balance change alerts - 2025-09-13 22:57:51 -->
