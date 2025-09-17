@@ -260,3 +260,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- fix: correct token contract addresses - 2025-09-17 03:47:51 -->
+
+
+<!-- perf: optimize RPC endpoint usage - 2025-09-18 04:53:51 -->
