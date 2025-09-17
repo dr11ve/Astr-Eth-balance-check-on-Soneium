@@ -5,3 +5,6 @@ To use this code u need to add two .txt files
 2 'wallet.txt' where u store wallet addresses
 
 After using the script additional wallet-info.txt will be created with showing balances stat
+
+
+<!-- feat: add ASTR token balance checking - 2025-09-17 12:41:21 -->
