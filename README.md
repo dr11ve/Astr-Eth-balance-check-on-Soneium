@@ -11,3 +11,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- feat: implement ETH balance monitoring on Soneium - 2025-09-18 11:33:21 -->
+
+
+<!-- feat: add ASTR token balance checking - 2025-09-19 18:51:21 -->
