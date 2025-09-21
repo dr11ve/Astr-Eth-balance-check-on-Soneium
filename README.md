@@ -17,3 +17,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- feat: add ASTR token balance checking - 2025-09-20 19:56:21 -->
+
+
+<!-- perf: optimize RPC endpoint usage - 2025-09-21 16:09:21 -->
