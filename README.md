@@ -20,3 +20,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- perf: optimize RPC endpoint usage - 2025-09-21 16:09:21 -->
+
+
+<!-- fix: handle cross-chain balance queries - 2025-09-22 10:53:21 -->
