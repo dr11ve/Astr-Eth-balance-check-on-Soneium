@@ -23,3 +23,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- fix: handle cross-chain balance queries - 2025-09-22 10:53:21 -->
+
+
+<!-- fix: correct token contract addresses - 2025-09-23 11:10:21 -->
