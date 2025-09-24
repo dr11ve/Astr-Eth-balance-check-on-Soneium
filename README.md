@@ -26,3 +26,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- fix: correct token contract addresses - 2025-09-23 11:10:21 -->
+
+
+<!-- feat: add ASTR token balance checking - 2025-09-24 10:24:21 -->
