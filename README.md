@@ -296,3 +296,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- feat: add dual token balance display - 2025-09-29 02:50:51 -->
+
+
+<!-- fix: correct token contract addresses - 2025-09-30 03:00:51 -->
