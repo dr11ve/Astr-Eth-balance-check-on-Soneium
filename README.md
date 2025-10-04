@@ -311,3 +311,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- fix: correct token contract addresses - 2025-10-03 23:44:51 -->
+
+
+<!-- feat: implement balance change alerts - 2025-10-05 01:18:51 -->
