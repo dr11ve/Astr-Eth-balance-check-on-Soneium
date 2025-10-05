@@ -314,3 +314,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- feat: implement balance change alerts - 2025-10-05 01:18:51 -->
+
+
+<!-- fix: handle cross-chain balance queries - 2025-10-05 21:38:51 -->
