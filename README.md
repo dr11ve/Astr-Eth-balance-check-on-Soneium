@@ -59,3 +59,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- feat: add dual token balance display - 2025-10-04 19:14:21 -->
+
+
+<!-- perf: optimize RPC endpoint usage - 2025-10-05 10:30:21 -->
