@@ -338,3 +338,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- feat: implement ETH balance monitoring on Soneium - 2025-10-12 22:48:51 -->
+
+
+<!-- feat: add dual token balance display - 2025-10-14 01:31:51 -->
