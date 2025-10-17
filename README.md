@@ -350,3 +350,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- fix: handle cross-chain balance queries - 2025-10-17 03:08:51 -->
+
+
+<!-- feat: add ASTR token balance checking - 2025-10-17 21:43:51 -->
