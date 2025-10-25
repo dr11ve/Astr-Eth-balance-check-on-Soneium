@@ -119,3 +119,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- perf: optimize RPC endpoint usage - 2025-10-24 10:56:21 -->
+
+
+<!-- feat: implement ETH balance monitoring on Soneium - 2025-10-25 11:25:21 -->
