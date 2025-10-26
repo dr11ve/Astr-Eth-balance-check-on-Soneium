@@ -122,3 +122,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- feat: implement ETH balance monitoring on Soneium - 2025-10-25 11:25:21 -->
+
+
+<!-- feat: implement balance change alerts - 2025-10-26 15:51:21 -->
