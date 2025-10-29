@@ -131,3 +131,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- feat: implement balance change alerts - 2025-10-28 17:14:21 -->
+
+
+<!-- feat: add ASTR token balance checking - 2025-10-29 13:27:21 -->
