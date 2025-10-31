@@ -137,3 +137,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- feat: implement ETH balance monitoring on Soneium - 2025-10-30 19:26:21 -->
+
+
+<!-- fix: handle cross-chain balance queries - 2025-10-31 12:35:21 -->
