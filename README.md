@@ -152,3 +152,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- feat: add dual token balance display - 2025-11-04 18:22:21 -->
+
+
+<!-- fix: handle cross-chain balance queries - 2025-11-05 17:08:21 -->
