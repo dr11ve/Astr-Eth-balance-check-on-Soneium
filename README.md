@@ -161,3 +161,6 @@ After using the script additional wallet-info.txt will be created with showing b
 
 
 <!-- feat: add dual token balance display - 2025-11-07 14:41:21 -->
+
+
+<!-- feat: implement balance change alerts - 2025-11-08 15:38:21 -->
